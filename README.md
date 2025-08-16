@@ -1,7 +1,6 @@
 # ¡Hola! 👋
 
-Soy estudiante de Desarrollo de Software en octavo semestre, ubicado en Medellín, Colombia 🇨🇤. Disfruto programar y aprender nuevas tecnologías para solucionar problemas reales.
-
+Soy estudiante de Desarrollo de Software en octavo semestre, ubicado en Medellín, Colombia. Disfruto programar y aprender nuevas tecnologías para solucionar problemas reales.
 ## Sobre mí
 
 - 🎓 Formándome en ingeniería de software.

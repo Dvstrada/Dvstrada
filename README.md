@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Soy estudiante de Desarrollo de Software en octavo semestre.
+Soy estudiante de Desarrollo de Software de quinto año.
 ## Sobre mí
 
 - 🎓 Formándome en ingeniería de software.
